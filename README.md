@@ -7,9 +7,9 @@ Contributors
 - Tanadol Chuntarasupt &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6481259
 - Yanaput Makbonsonglop &nbsp;6481145
 
-# Demo video
+# Check [Demo video](https://youtu.be/z8gg14Scas8) here.
 
-https://youtu.be/z8gg14Scas8
+
 
 
 # PS.
