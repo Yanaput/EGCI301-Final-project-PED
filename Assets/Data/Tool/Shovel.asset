@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 329e0c04f4cf54643838f3640a44255b, type: 3}
+  m_Name: Shovel
+  m_EditorClassIdentifier: 
+  itemDescription: A shovel. What do you expect?
+  itemSprite: {fileID: 1855104855, guid: 512d4ea58e8c816408851493d4f096ea, type: 3}
+  gameModel: {fileID: 919132149155446097, guid: cb7a6e48ad460134a8ec25cc625ad568, type: 3}
+  cost: 10
+  toolType: 0

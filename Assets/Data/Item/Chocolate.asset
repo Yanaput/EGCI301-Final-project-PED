@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 28f13f9cba8154044bbfafc54aa8086c, type: 3}
+  m_Name: Chocolate
+  m_EditorClassIdentifier: 
+  itemDescription: Dark and Delicious
+  itemSprite: {fileID: 1470661725, guid: 340cce27237b99540bfa8cc1eb38d9e6, type: 3}
+  gameModel: {fileID: 2326174014939105505, guid: 1841fdca77393404bb59dee0cc7f906c, type: 3}
+  cost: 60

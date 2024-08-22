@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 28f13f9cba8154044bbfafc54aa8086c, type: 3}
+  m_Name: SellBox
+  m_EditorClassIdentifier: 
+  itemDescription: 
+  itemSprite: {fileID: 0}
+  gameModel: {fileID: 2183118759118059753, guid: e5f446bef0073db4a99f9650c97cd717, type: 3}
