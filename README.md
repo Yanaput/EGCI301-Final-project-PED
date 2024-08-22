@@ -12,6 +12,6 @@ Contributors
 https://youtu.be/z8gg14Scas8
 
 
-#PS.
+# PS.
 
 This project lack a lot of basic features, such start/exit buttons, game options and etc., due to course objective and time constraint(we have around a month to build this project from scratch including modelling).
