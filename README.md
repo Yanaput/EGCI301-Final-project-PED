@@ -2,10 +2,10 @@
 
 Contributors
 
-- Jessica Rujipatanakul 6480294
-- Pimmat Chatvichai     6480565
-- Tanadol Chuntarasupt  6481259
-- Yanaput Makbonsonglop 6481145
+- Jessica Rujipatanakul
+- Pimmat Chatvichai
+- Tanadol Chuntarasupt
+- Yanaput Makbonsonglop
 
 # Click [here](https://youtu.be/z8gg14Scas8) for demo video.
 
